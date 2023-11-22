@@ -1,0 +1,1 @@
+# Class_Image_Segmentation_using_Detectron2
